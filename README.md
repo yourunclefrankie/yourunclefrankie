@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yourunclefrankie
-- 👀 I’m interested in Unstructured Business Data 
-- 🌱 I’m currently Studying Datascience 
+- 👀 I’m interested in  Business Data 
+- 🌱  Datascience 
 - 💞️ I’m looking to collaborate on Life projects 
 - 📫 How to reach me franklin.odoemena@gmail.com 
 - 😄 Pronouns: him/his/he 
