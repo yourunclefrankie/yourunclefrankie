@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @yourunclefrankie
-- 👀 I’m interested in  Business Data 
+- # Hi, I'm Franklin! 👋
+- Data Analyst & Machine Learning Enthusiast**  
+📈 Turning raw data into actionable insights | 🛠️ Python, SQL, Power BI, Azure
+🔧 Technical Skills  
+- **Languages**: Python, SQL, excel 
+- **Tools**: Power BI, Excel, TensorFlow, Scikit-learn  
+- **Cloud**: Azure  
+- **Data Manipulation**: Pandas, NumPy, Beautiful Soup  
+- **Machine Learning**: RFMT modeling, KNN, Random Forest  
 - 🌱  Datascience 
 - 💞️ I’m looking to collaborate on Life projects 
 - 📫 How to reach me franklin.odoemena@gmail.com 
